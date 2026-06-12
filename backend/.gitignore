@@ -1,0 +1,20 @@
+# ── Node modules (auto-installed by npm install) ──
+node_modules/
+
+# ── Environment variables (contains your secrets!) ──
+.env
+
+# ── OS files ──
+.DS_Store
+Thumbs.db
+
+# ── VS Code settings ──
+.vscode/
+
+# ── Logs ──
+*.log
+npm-debug.log*
+
+# ── Runtime ──
+*.pid
+*.seed
